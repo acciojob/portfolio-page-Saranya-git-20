@@ -1,2 +1,13 @@
-
-/* Your CSS Code here. */
+img{
+	width:100px;
+}
+.skills{
+	font-size:20px;
+}
+.project{
+	font-size:20px
+}
+a{
+	background-color:white;
+	font-size:30px
+}
